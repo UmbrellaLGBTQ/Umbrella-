@@ -72,4 +72,4 @@ Ensure you have the following installed:
 This project is licensed under the **MIT License**.
 
 ## Contact
-For inquiries, reach out to [Your Email] or visit [Your Website].
+For inquiries, reach out to [support@umbrellalgbtq.com] or visit [https://umbrellalgbtq.com/].
